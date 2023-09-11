@@ -1,0 +1,13 @@
+#Tarefa-3 {
+  padding: 25px;
+  margin: 30px;
+  border: 5px dotted #8e9;
+  outline: 10px double #7a5;
+  background-color: #542233;
+}
+
+.challenge-box-model {
+  background-color: #888;
+  color: #000;
+  border: none;
+}
